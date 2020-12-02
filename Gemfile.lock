@@ -142,7 +142,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     popper_js (1.14.3)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.6)
     rack (2.0.5)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -254,7 +254,7 @@ DEPENDENCIES
   newrelic_rpm
   nokogiri
   octokit (~> 4.0)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rails (~> 5.0.6)
   sass-rails (~> 5.0)
   spring
